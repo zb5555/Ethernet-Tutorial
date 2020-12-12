@@ -10,4 +10,9 @@ First off ethernet is obviously less convienient than wifi, instead of just conn
 # How to set up ethernet.
 # 1. Find the right cable for you.
 You will need to purchase an ethernet cable that is the right length for your needs. They come in various different lengths so make sure you find the right length of cable for your specific situation.
-![Ethernet Cable](https://images.app.goo.gl/8dVUrzVjcUUVGYzF6)
+![Ethernet Cable](file:///Users/zachbrasier/Desktop/Screen%20Shot%202020-12-11%20at%206.18.44%20PM.png)
+
+# 2. Plug in the ethernet to your router.
+Simply find the ethernet port on your router and plug in your newly acquired cable. The port will look something like this. ![Ethernet Cable Port on Router](file:///Users/zachbrasier/Desktop/Screen%20Shot%202020-12-11%20at%206.25.58%20PM.png)
+
+# 3. Next plug in your cable in your desired.
