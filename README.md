@@ -10,4 +10,4 @@ First off ethernet is obviously less convienient than wifi, instead of just conn
 # How to set up ethernet.
 # 1. Find the right cable for you.
 You will need to purchase an ethernet cable that is the right length for your needs. They come in various different lengths so make sure you find the right length of cable for your specific situation.
-![Ethernet Cable](https://images.app.goo.gl/xt4xSAf4pkH5Zsdj8)
+![Ethernet Cable](https://images.app.goo.gl/8dVUrzVjcUUVGYzF6)
